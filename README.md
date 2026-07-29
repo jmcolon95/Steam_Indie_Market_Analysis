@@ -6,14 +6,22 @@ Analyze trends in the Steam indie market using PostgreSQL.
 ## Database Features:
 
 • Normalized relational database
+
 • Many-to-many relationships
+
 • Primary and foreign keys
+
 • Steam App IDs
+
 • Reviews
+
 • Publishers
+
 • Developers
+
 • Tags
-• Genres (planned)
+
+• Genres
 
 ## Future Analysis:
 
