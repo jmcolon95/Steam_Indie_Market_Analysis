@@ -34,3 +34,5 @@ Analyze trends in the Steam indie market using PostgreSQL.
 • Review trends over time
 
 • Steam Deck Verified compatibility
+
+### Currently in Progress of making Quarries, while tables have been finished and added to database
