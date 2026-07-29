@@ -26,7 +26,11 @@ Analyze trends in the Steam indie market using PostgreSQL.
 ## Future Analysis:
 
 • Highest-rated developers
+
 • Most common Steam tags
+
 • Average price by genre
+
 • Review trends over time
+
 • Steam Deck Verified compatibility
