@@ -5,7 +5,7 @@ Games (Done)
 game\_id(PK)  
 Title  
 Publisher\_ID  
-RElease\_date  
+Release\_date  
 Base\_Price  
 Steam\_deck  
 Early\_acess  
